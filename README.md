@@ -10,7 +10,7 @@ DevOps and Cyber Security.
 
 ## 🧰 Programming Languages
 
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Go%20lang-01ADD8?style=for-the-badge&logo=go&logoColor=white" />
@@ -18,7 +18,7 @@ DevOps and Cyber Security.
 
 ## ☁ ️Cloud and external tools
 
-<p align="center">
+<p align="left">
     <img src="https://img.shields.io/badge/Docker-0073ec?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/Helm-091C84?style=for-the-badge&logo=helm&logoColor=white" />
